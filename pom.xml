@@ -37,7 +37,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>RELEASE</version>
+                <version>3.0.0</version>
                 <executions>
                     <execution>
                         <phase>verify</phase>
@@ -57,7 +57,7 @@
                     <dependency>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-checkstyle-plugin</artifactId>
-                        <version>RELEASE</version>
+                        <version>3.0.0</version>
                         <scope>compile</scope>
                     </dependency>
                 </dependencies>
